@@ -180,7 +180,12 @@ static DeckEntry* get_or_create_deck_entry(WorldState* state, const char* name) 
  * Output: "Gold obtained"
  */
 void handle_gain_gold(WorldState* state, int amount) {
-    state->total_gold += amount;
+    /* Defensive check to prevent overflow beyond signed 32-bit max (2147483647) */
+    if (2147483647LL - state->total_gold < amount) {
+        state->total_gold = 2147483647;
+    } else {
+        state->total_gold += amount;
+    }
     printf("Gold obtained\n");
 }
 
@@ -648,8 +653,13 @@ void handle_fight_enemy_bounty(WorldState* state, const char* enemy, int bounty)
  * Output: "Ironclad heals to <final_hp>"
  */
 void handle_heal(WorldState* state, int amount) {
-    state->hp += amount;
-    if(state->hp > state->max_hp) state->hp = state->max_hp;
+    /* Safe addition to prevent overflow, then clamped at max_hp per spec */
+    if (2147483647LL - state->hp < amount) {
+        state->hp = state->max_hp;
+    } else {
+        state->hp += amount;
+        if(state->hp > state->max_hp) state->hp = state->max_hp;
+    }
     printf("Ironclad heals to %d\n", state->hp);
 }
 

@@ -19,7 +19,7 @@ $(TARGET): $(OBJS)
 	$(CC) $(CFLAGS) -c $< -o $@
 
 grade:
-	python3 test/grader.py ./spireslayer test-cases
+	python3 tests/test/grader.py ./spireslayer tests/test-cases
 
 clean:
 	rm -f $(OBJS) $(TARGET)
