@@ -1,24 +1,67 @@
-* Spireslayer Command Interpreter
+# Spireslayer: Command-Line Interpreter 🗡️🃏
 
-*This project implements a fully functional command-line interpreter in C for the "Spireslayer" game, inspired by Slay the Spire. Designed for a systems programming course, the interpreter parses custom pseudo-English grammatical rules to manage the dynamic state of a player's items, relics, and progression within a terminal command loop. The system manages memory extensively via secure dynamic backing stores and features an autonomous backtracking lexical parser.
+![Banner](assets/banner.png)
 
-* Based on the project specification, the platform acts as an encapsulated REPL (Read-Eval-Print Loop), securely tokenizing user input, cross-referencing valid grammar states, tracking state mutations, scaling memory seamlessly via amortized doubling algorithms, and verifying syntactic formatting adherence.
+## 📋 Table of Contents
+- [Overview](#overview)
+- [System Architecture](#system-architecture)
+- [Key Components](#key-components)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing & Validation](#testing--validation)
+- [License](#license)
 
-* Dynamic Memory and Inventory Management
-  * Autonomous doubling array algorithms spanning unbounded inventory capacities
-  * Dynamic string internalization verifying identifier constraint invariants
-  * Exhaustive memory cleanup preventing leaks across arbitrary execution faults
+---
 
-* Custom Syntax Parse Engine
-  * Iterative backtracking token-matching engine mimicking recursive descent patterns
-  * Lexical whitespace strictness enforcing precise identifier syntax integrity
-  * Code decoupling delegating parsing logic from strict semantic operations
+## 🔍 Overview
+**Spireslayer** is a high-performance command-line interpreter (REPL) developed in **C** for a systems programming course at **Boğaziçi University**. Inspired by the mechanics of *Slay the Spire*, it features an autonomous backtracking lexical parser and robust state management routines to simulate a dynamic game environment through a terminal interface.
 
-* State Simulation Subsystem
-  * Monitors expansive progression layers including dynamic currencies, relics, and scaling logic
-  * Secure constraint enforcement routines blocking invalid transactional query loops
-  * Modular codex dynamically logging expansive elemental combat vulnerabilities
+## 🏗️ System Architecture
+The system is engineered for **memory safety**, **syntactic precision**, and **modular scalability**:
+- **Lexical Parser**: An iterative backtracking engine that enforces strict identifiers and pseudo-English grammatical rules.
+- **Backing Store**: Amortized doubling algorithms provide secure, unbounded inventory and state management.
+- **State Engine**: A decoupled logic layer monitors progression, currencies, and item invariants without leaking implementation details.
 
-* End-To-End Interactive REPL
-  * Unicode output stabilization via immediate standard output (fflush) buffering
-  * CRLF sanitization defending buffer boundaries against arbitrary pipe redirections
+## ✨ Key Components
+- **Dynamic Inventory**: Monitors Relics, Cards, and Currencies with $O(1)$ access and $O(n)$ amortized scaling.
+- **Command Sanitization**: Rigorous CRLF and whitespace handling to ensure buffer integrity against pipe redirections.
+- **Memory Management**: Zero-leak policy ensured via granular cleanup routines across all execution branches.
+
+## 🚀 Installation
+1. Ensure you have `gcc` and `make` installed.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/yigitsarpavci/Spireslayer-Command-Interpreter.git
+   ```
+3. Navigate to the project directory:
+   ```bash
+   cd Spireslayer-Command-Interpreter
+   ```
+
+## 💻 Usage
+Build the project using the optimized Makefile:
+```bash
+make
+```
+Launch the interpreter:
+```bash
+./spireslayer
+```
+
+## 🧪 Testing & Validation
+The project includes a comprehensive verification suite:
+- **Automated Tests**: Located in the `tests/` directory, covering syntactic edge cases and semantic invariants.
+- **Technical Report**: A deep dive into the implementation details is available in `docs/report.pdf`.
+
+## 📄 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+### 🔗 The Algorithmic Excellence Series
+*Looking for more high-performance implementations?*
+- **[MatrixNet](https://github.com/yigitsarpavci/MatrixNet-The-Operator-s-Console)**: Graph Theory & SCC Analysis.
+- **[GigMatch-Pro](https://github.com/yigitsarpavci/GigMatch-Pro)**: Priority Queue Matching Algorithms.
+- **[Nightpass](https://github.com/yigitsarpavci/Nightpass-A-Survival-Card-Game)**: State-Machine Survival Mechanics.
+
+---
+*Developed with ❤️ by Yiğit Sarp Avcı*
