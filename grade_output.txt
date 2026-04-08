@@ -1,0 +1,11 @@
+python3 test/grader.py ./spireslayer test-cases
+make[1]: Nothing to be done for `default'.
+[93mtest-case 'input01.txt': 100.00 points[0m
+[93mtest-case 'input02.txt': 100.00 points[0m
+[93mtest-case 'input03.txt': 100.00 points[0m
+[93mtest-case 'input04.txt': 100.00 points[0m
+[93mtest-case 'input05.txt': 100.00 points[0m
+[93mtest-case 'input06.txt': 100.00 points[0m
+[93mtest-case 'input07.txt': 100.00 points[0m
+[92mGrade = 100.00[0m
+100.00

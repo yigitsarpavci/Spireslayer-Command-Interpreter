@@ -1,24 +1,2 @@
-# Project Specific
 my-outputs/
 spireslayer
-grade.txt
-grader_output.txt
-
-# Object files
-*.o
-*.obj
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Editor/IDE files
-.vscode/
-.idea/
-*.swp
-*~

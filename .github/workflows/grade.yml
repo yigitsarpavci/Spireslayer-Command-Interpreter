@@ -1,0 +1,41 @@
+name: Grade
+
+on: push
+
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    container:
+      image: gokceuludogan/cmpe230-spring26:latest
+      options: --user 0
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Compile C Program
+        run: make
+
+      - name: Verify Test Cases Directory
+        run: |
+          if [ -d "test-cases" ]; then
+            echo "test-cases directory exists."
+          else
+            echo "test-cases directory is missing!"
+            exit 1
+          fi
+
+      - name: Debug Test Cases
+        run: ls -l test-cases || echo "No test cases found."
+        
+      - name: Run Local Grader
+        run: make grade -s > grade.txt
+          
+      - name: Publish Grade
+        run: |
+          cat grade.txt
+          echo "Grade: " >> $GITHUB_STEP_SUMMARY 
+          cat grade.txt >> $GITHUB_STEP_SUMMARY
+          echo "output=$(tail -n 1 grade.txt)" >> $GITHUB_ENV
