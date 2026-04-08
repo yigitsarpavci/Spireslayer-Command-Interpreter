@@ -1,0 +1,12 @@
+Where ?
+Floor ?
+Ironclad enters Shop room
+Where ?
+Floor ?
+Ironclad takes 15 damage
+Health ?
+Ironclad gains 10 max hp
+Health ?
+Ironclad heals 20 hp
+Health ?
+Exit

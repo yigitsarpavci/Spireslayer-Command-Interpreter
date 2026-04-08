@@ -1,0 +1,49 @@
+» Gold obtained
+» Potion not found: Weak Potion
+» Potion obtained: Explosive Potion
+» Potion obtained: Swift Potion
+» Potion obtained: Smoke Bomb
+» Card not found: Dropkick
+» Potion not found: Ancient Potion
+» None
+» Ironclad health drops to 52
+» Ironclad heals to 80
+» Potion not found: Dexterity Potion
+» Card not found: Impervious
+» Ironclad is outmatched and flees with 65 hp remaining
+» Ironclad is outmatched and flees with 50 hp remaining
+» Card not found: Juggernaut
+» None
+» Potion not found: Skill Potion
+» Ironclad health drops to 20
+» 20/80
+» INVALID
+» Max health increased to 91
+» Potion belt is full
+» None
+» None
+» Codex entry created: Writhing Mass
+» NONE
+» Ironclad is outmatched and flees with 5 hp remaining
+» 1 Explosive Potion, 1 Smoke Bomb, 1 Swift Potion
+» Ironclad is outmatched and flees with 0 hp remaining
+» 0
+» INVALID
+» 0
+» INVALID
+» Card not found: Headbutt
+» Card not found: Reaper
+» Ironclad heals to 2
+» INVALID
+» Ironclad heals to 91
+» Card marked as exhaust: Metallicize
+» Upgraded card not found: Second Wind
+» 1 Explosive Potion, 1 Smoke Bomb, 1 Swift Potion
+» Card added: Defend
+» Gold obtained
+» Gold obtained
+» NONE
+» Potion belt is full
+» Codex entry created: Bronze Automaton
+» Ironclad heals to 91
+» Entered Monster room

@@ -1,0 +1,250 @@
+Ironclad gains potion Speed Potion
+Ironclad sells upgraded card Twin Strike for 22 gold
+Relics ?
+Ironclad fights Mad Gremlin
+Total card Rampage ?
+Floor extra ?
+Ironclad sells potion Strength Potion for 27 gold
+Ironclad takes 23 damage
+Ironclad enters Dungeon room
+Ironclad gains potion Energy Potion
+Ironclad discards potion Speed Potion
+Ironclad learns relic Bag of Marbles is effective against Centurion
+ironclad removes card Power Through
+Total gold ?
+Ironclad gains card Bash
+Ironclad fights Writhing Mass
+Ironclad heals 0 hp
+Ironclad heals 65 hp
+Ironclad gains 243 gold
+Ironclad upgrades card Bash
+Ironclad gains 6 max hp
+What is effective against Centurion ?
+Ironclad gains potion Fire Potion
+Defeated Centurion ?
+Ironclad fights Snake Plant
+Ironclad sells card Limit Break for 29 gold
+Ironclad takes 352 damage
+Ironclad marks card Rupture as Exhaust
+Ironclad removes upgraded card Clash
+Ironclad learns potion Explosive Potion is effective against Mad Gremlin
+Ironclad buys card Reaper for gold
+Ironclad fights
+Deck ?
+Ironclad buys potion Fire Potion for 47 gold
+Ironclad heals 18 hp
+Ironclad upgrades card Ghostly Armor
+Ironclad upgrades card Limit Break
+What is effective against Writhing Mass ?
+Relics ?
+Floor ?
+Health ?
+Ironclad learns card Clothesline is effective against Hexaghost
+Ironclad sells potion Ancient Potion for 2 gold
+Ironclad fights Champ for 66 gold
+Total card Dropkick ?
+Relics ?
+Deck ?
+Ironclad gains 398 gold
+Ironclad gains 5 hp
+Ironclad gains card Thunderstrike
+Defeated Hexaghost ?
+Ironclad heals 179 hp
+Total gold
+Ironclad learns card Fire Breathing is effective against Gremlin Gang
+Where?
+Ironclad marks card Reaper as Exhaust
+Total card Thunderstrike ?
+Ironclad learns potion Elixir is effective against Fat Gremlin
+Ironclad removes card Headbutt
+Deck
+Ironclad upgrades card Thunderstrike
+Ironclad buys card Power Through for 3 gold
+Deck size ?
+Ironclad gains potion Elixir
+Relics ?
+Ironclad enters Monster room
+Ironclad buys card Feel No Pain for 46 gold
+Deck ?
+Relics ?
+Deck ?
+Exhausts ?
+Ironclad gains 186 gold
+Ironclad learns card Battle Trance is effective against Shield Gremlin
+Ironclad sells potion Energy Potion for 30 gold
+Ironclad gains relic Emotion Chip
+Ironclad enters Event room
+What is effective against Shield Gremlin ?
+Ironclad enters Boss room
+Ironclad learns card Combust is effective against Shield Gremlin
+Ironclad fights Shield Gremlin for 88 gold
+Ironclad gains relic Bronze Scales
+Ironclad takes -3 damage
+Ironclad fights Slime Boss
+Ironclad buys potion Elixir for 7 gold
+Ironclad takes 219 damage
+Ironclad removes card Immolate
+Ironclad buys card Demon Form for 4 gold
+Ironclad fights Champ
+Ironclad gains 495 gold
+Ironclad buys potion Power Potion for 31 gold
+Ironclad sells potion Block Potion for 14 gold
+Total card Wild Strike ?
+Ironclad gains relic Orichalcum
+Ironclad gains card Combust
+Floor ?
+EXIT
+Ironclad gains potion Energy Potion
+Relics ?
+Ironclad buys potion Weak Potion for 34 gold
+Ironclad gains card Sword Boomerang
+Ironclad fights Shield Gremlin for 169 gold
+Ironclad learns card Limit Break is effective against Snecko
+Ironclad buys potion Attack Potion for 50 gold
+Ironclad removes card Armaments
+Ironclad buys potion Swift Potion for 1809 gold
+Ironclad gains relic Emotion Chip
+Relics ?
+Ironclad buys potion Speed Potion for 1808 gold
+Ironclad gains 171 gold
+Ironclad gains 18 max hp
+Deck ?
+Ironclad enters elite room
+Ironclad marks card Power Through as exhaust
+Ironclad marks card Sword Boomerang as exhaust
+Total upgraded card Thunderstrike ?
+Ironclad gain 126 gold
+Ironclad gains 007 gold
+Ironclad gains potion Power Potion
+Deck ?
+Ironclad fights Slime Boss for 137 gold
+Potions ?
+Health ?
+Ironclad heals 9 hp
+Ironclad buys relic Whetstone for 39 gold
+Ironclad discards potion Ghost In A Jar
+Total gold?
+Where ?
+Ironclad discards potion Power Potion
+Ironclad buys card Thunderclap for 11 gold
+What is effective against Shield Gremlin ?
+Ironclad enters Treasure room
+Ironclad gains relic Burning Blood
+Exhausts ?
+Where ?
+Ironclad gains card Power Through
+Ironclad gains 178 gold
+Ironclad buys card Iron Wave for 23 gold
+Where ?
+Ironclad fights Gremlin_Nob
+Ironclad buys potion Dexterity Potion for 6 gold
+Relics ?
+Ironclad marks card Feel No Pain as exhaust
+Defeated Mugger ?
+Total card Bash ?
+Ironclad discards potion Speed Potion
+Ironclad gains card Reaper
+Ironclad gains 391 gold
+Ironclad gains 5 max gold
+Defeated Hexaghost ?
+Ironclad buys relic Toy Ornithopter for 49 gold
+Ironclad fights Fat Gremlin
+Ironclad discards potion Fire Potion
+Total upgraded card Bash ?
+Ironclad learns relic Runic Cube is effective against Snake Plant
+Total upgraded card Combust ?
+ironclad upgrades card Fiend Fire
+Ironclad gains 0 gold
+Exhausts ?
+Floor ?
+Ironclad learns card Corruption is effective against Hexaghost
+Ironclad fights Shield Gremlin
+Relics ?
+Ironclad heals 13 hp
+Total card Defend ?
+Ironclad buys potion Strength Potion for 2103 gold
+Exit 2
+Ironclad upgrades card Berserk
+Ironclad sells potion Smoke Bomb for 2 gold
+Ironclad gains card Sword Boomerang gold
+Ironclad fights
+Ironclad enters Rest room
+ironclad gains 10 gold
+Ironclad gains relic
+Exit now
+Health ?
+Ironclad buys card Defend for 2487 gold
+Ironclad fights Shield Gremlin for 107 gold
+Ironclad enters Rest room
+Ironclad buys potion Regen Potion for 2422 gold
+Ironclad removes upgraded card Perfected Strike
+Ironclad upgrades card Demon Form
+Ironclad fights Shield Gremlin for 140 gold
+Ironclad buys potion Speed Potion for 2359 gold
+Ironclad gains card
+Ironclad upgrades card Thunderclap
+Ironclad buys card Immolate for 48 gold
+Ironclad buys card Battle Trance for 23 gold
+Deck ?
+Ironclad sells card Battle Trance for 50 gold
+Ironclad gains relic Frozen Egg
+Ironclad learns card Dropkick is effective against Bronze Automaton
+Total upgraded card Bash ?
+Ironclad gains relic Runic Cube!
+Ironclad buys relic Lantern for 14 gold
+Ironclad buys potion Strength Potion for 2727 gold
+Ironclad enters Treasure room
+Ironclad removes upgraded card Anger
+Deck ?
+Total upgraded card Bludgeon ?
+Ironclad removes card Reaper
+Ironclad gains 438 gold
+Ironclad removes card Sword Boomerang
+Ironclad removes upgraded card Thunderclap
+Ironclad marks card Sword Boomerang as exhaust
+Ironclad gains 10 gold extra
+ironclad removes card Pummel
+Ironclad upgrades card Feel No Pain
+Relics ?
+Ironclad gains relic Ninja Scroll
+Ironclad fights Spheric Guardian
+Ironclad upgrades card Iron Wave
+Ironclad takes 17 damage
+Health ?
+Ironclad marks relic Horn Cleat as exhaust
+Potions ?
+Deck size
+Ironclad sells potion Fire Potion for 30 gold
+Ironclad gains 18 max hp
+Ironclad gains 25 max hp
+Ironclad learns relic Frozen Egg is effective against Snecko
+Ironclad sells relic Twisted Funnel for 50 gold
+Potions ?
+Potions ?
+Total gold ?
+Deck ?
+Ironclad gains potion Smoke Bomb
+Deck size ?
+Ironclad removes card Rampage
+Total card Bash ?
+Ironclad heals 34 hp
+Ironclad gains card Headbutt
+Ironclad gains potion Dexterity Potion
+Ironclad fights Snecko for 165 gold
+Ironclad gains potion Power Potion
+Deck size ?
+deck ?
+Ironclad sells card Combust for 54 gold
+Exhausts ?
+Ironclad fights Nob
+Ironclad gains relic Cracked Core
+Defeated Mad Gremlin ?
+Ironclad sells upgraded card Sword Boomerang for 54 gold
+Health ?
+Exhausts ?
+Floor ?
+Ironclad gains relic
+Ironclad gains potion Fire  Potion
+Total gold ?
+Deck ?
+Exit

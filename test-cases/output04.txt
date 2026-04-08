@@ -1,0 +1,249 @@
+» Potion obtained: Speed Potion
+» Upgraded card not found: Twin Strike
+» None
+» Ironclad is outmatched and flees with 65 hp remaining
+» 0
+» INVALID
+» Potion not found: Strength Potion
+» Ironclad health drops to 42
+» INVALID
+» Potion obtained: Energy Potion
+» Potion discarded: Speed Potion
+» Codex entry created: Centurion
+» INVALID
+» 0
+» Card added: Bash
+» Ironclad is outmatched and flees with 27 hp remaining
+» INVALID
+» Ironclad heals to 80
+» Gold obtained
+» Card upgraded: Bash
+» Max health increased to 86
+» relic Bag of Marbles
+» Potion obtained: Fire Potion
+» 0
+» Ironclad is outmatched and flees with 65 hp remaining
+» Card not found: Limit Break
+» Ironclad health drops to 0
+» INVALID
+» Upgraded card not found: Clash
+» Codex entry created: Mad Gremlin
+» INVALID
+» INVALID
+» 1 Bash+
+» Potion obtained: Fire Potion
+» Ironclad heals to 18
+» Card not found: Ghostly Armor
+» Card not found: Limit Break
+» No codex data for Writhing Mass
+» None
+» 0
+» 18/86
+» Codex entry created: Hexaghost
+» Potion not found: Ancient Potion
+» Ironclad is outmatched and flees with 3 hp remaining
+» 0
+» None
+» 1 Bash+
+» Gold obtained
+» INVALID
+» Card added: Thunderstrike
+» 0
+» Ironclad heals to 86
+» INVALID
+» Codex entry created: Gremlin Gang
+» INVALID
+» INVALID
+» 1
+» Codex entry created: Fat Gremlin
+» Card not found: Headbutt
+» INVALID
+» Card upgraded: Thunderstrike
+» Card added: Power Through
+» 3
+» Potion belt is full
+» None
+» Entered Monster room
+» Card added: Feel No Pain
+» 1 Bash+, 1 Feel No Pain, 1 Power Through, 1 Thunderstrike+
+» None
+» 1 Bash+, 1 Feel No Pain, 1 Power Through, 1 Thunderstrike+
+» None
+» Gold obtained
+» Codex entry created: Shield Gremlin
+» Potion sold: Energy Potion
+» Relic obtained: Emotion Chip
+» Entered Event room
+» card Battle Trance
+» Entered Boss room
+» Codex entry updated: Shield Gremlin
+» Ironclad is outmatched and flees with 71 hp remaining
+» Relic obtained: Bronze Scales
+» INVALID
+» Ironclad is outmatched and flees with 56 hp remaining
+» Potion obtained: Elixir
+» Ironclad health drops to 0
+» Card not found: Immolate
+» Card added: Demon Form
+» Ironclad is outmatched and flees with 0 hp remaining
+» Gold obtained
+» Potion belt is full
+» Potion not found: Block Potion
+» 0
+» Relic obtained: Orichalcum
+» Card added: Combust
+» 3
+» INVALID
+» Potion belt is full
+» Bronze Scales, Emotion Chip, Orichalcum
+» Potion belt is full
+» Card added: Sword Boomerang
+» Ironclad defeats Shield Gremlin and gains 169 gold
+» Codex entry created: Snecko
+» Potion belt is full
+» Card not found: Armaments
+» Not enough gold
+» Already has relic: Emotion Chip
+» Bronze Scales, Emotion Chip, Orichalcum
+» Not enough gold
+» Gold obtained
+» Max health increased to 104
+» 1 Bash+, 1 Combust, 1 Demon Form, 1 Feel No Pain, 1 Power Through, 1 Sword Boomerang, 1 Thunderstrike+
+» INVALID
+» Card marked as exhaust: Power Through
+» Card marked as exhaust: Sword Boomerang
+» 1
+» INVALID
+» INVALID
+» Potion belt is full
+» 1 Bash+, 1 Combust, 1 Demon Form, 1 Feel No Pain, 1 Power Through*, 1 Sword Boomerang*, 1 Thunderstrike+
+» Ironclad is outmatched and flees with 0 hp remaining
+» 1 Elixir, 2 Fire Potion
+» 0/104
+» Ironclad heals to 9
+» Relic obtained: Whetstone
+» Potion not found: Ghost In A Jar
+» INVALID
+» Boss
+» Potion not found: Power Potion
+» Card added: Thunderclap
+» card Battle Trance, card Combust
+» Entered Treasure room
+» Relic obtained: Burning Blood
+» Power Through, Sword Boomerang
+» Treasure
+» Card added: Power Through
+» Gold obtained
+» Card added: Iron Wave
+» Treasure
+» INVALID
+» Potion belt is full
+» Bronze Scales, Burning Blood, Emotion Chip, Orichalcum, Whetstone
+» Card marked as exhaust: Feel No Pain
+» 0
+» 1
+» Potion not found: Speed Potion
+» Card added: Reaper
+» Gold obtained
+» INVALID
+» 0
+» Relic obtained: Toy Ornithopter
+» Ironclad defeats Fat Gremlin
+» Potion discarded: Fire Potion
+» 1
+» Codex entry created: Snake Plant
+» 0
+» INVALID
+» INVALID
+» Feel No Pain, Power Through, Sword Boomerang
+» 4
+» Codex entry updated: Hexaghost
+» Ironclad defeats Shield Gremlin
+» Bronze Scales, Burning Blood, Emotion Chip, Orichalcum, Toy Ornithopter, Whetstone
+» Ironclad heals to 22
+» 0
+» Not enough gold
+» INVALID
+» Card not found: Berserk
+» Potion not found: Smoke Bomb
+» INVALID
+» INVALID
+» Entered Rest room
+» INVALID
+» INVALID
+» INVALID
+» 22/104
+» Not enough gold
+» Ironclad defeats Shield Gremlin and gains 107 gold
+» Entered Rest room
+» Not enough gold
+» Upgraded card not found: Perfected Strike
+» Card upgraded: Demon Form
+» Ironclad defeats Shield Gremlin and gains 140 gold
+» Not enough gold
+» INVALID
+» Card upgraded: Thunderclap
+» Card added: Immolate
+» Card added: Battle Trance
+» 1 Bash+, 1 Battle Trance, 1 Combust, 1 Demon Form+, 1 Feel No Pain*, 1 Immolate, 1 Iron Wave, 2 Power Through*, 1 Reaper, 1 Sword Boomerang*, 1 Thunderclap+, 1 Thunderstrike+
+» Card sold: Battle Trance
+» Relic obtained: Frozen Egg
+» Codex entry created: Bronze Automaton
+» 1
+» INVALID
+» Relic obtained: Lantern
+» Not enough gold
+» Entered Treasure room
+» Upgraded card not found: Anger
+» 1 Bash+, 1 Combust, 1 Demon Form+, 1 Feel No Pain*, 1 Immolate, 1 Iron Wave, 2 Power Through*, 1 Reaper, 1 Sword Boomerang*, 1 Thunderclap+, 1 Thunderstrike+
+» 0
+» Card removed: Reaper
+» Gold obtained
+» Card removed: Sword Boomerang
+» Upgraded card removed: Thunderclap
+» Card already exhausts: Sword Boomerang
+» INVALID
+» INVALID
+» Card upgraded: Feel No Pain
+» Bronze Scales, Burning Blood, Emotion Chip, Frozen Egg, Lantern, Orichalcum, Toy Ornithopter, Whetstone
+» Relic obtained: Ninja Scroll
+» Ironclad is outmatched and flees with 7 hp remaining
+» Card upgraded: Iron Wave
+» Ironclad health drops to 0
+» 0/104
+» INVALID
+» 1 Fire Potion
+» INVALID
+» Potion sold: Fire Potion
+» Max health increased to 122
+» Max health increased to 147
+» Codex entry updated: Snecko
+» INVALID
+» None
+» None
+» 2712
+» 1 Bash+, 1 Combust, 1 Demon Form+, 1 Feel No Pain+*, 1 Immolate, 1 Iron Wave+, 2 Power Through*, 1 Thunderstrike+
+» Potion obtained: Smoke Bomb
+» 9
+» Card not found: Rampage
+» 1
+» Ironclad heals to 34
+» Card added: Headbutt
+» Potion obtained: Dexterity Potion
+» Ironclad defeats Snecko and gains 165 gold
+» Potion obtained: Power Potion
+» 10
+» INVALID
+» Card sold: Combust
+» Feel No Pain, Power Through, Sword Boomerang
+» Ironclad is outmatched and flees with 19 hp remaining
+» Relic obtained: Cracked Core
+» 0
+» Upgraded card not found: Sword Boomerang
+» 19/147
+» Feel No Pain, Power Through, Sword Boomerang
+» 7
+» INVALID
+» INVALID
+» 2931
+» 1 Bash+, 1 Demon Form+, 1 Feel No Pain+*, 1 Headbutt, 1 Immolate, 1 Iron Wave+, 2 Power Through*, 1 Thunderstrike+

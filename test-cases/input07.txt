@@ -1,0 +1,50 @@
+Ironclad gains 134 gold
+Ironclad discards potion Weak Potion
+Ironclad gains potion Explosive Potion
+Ironclad buys potion Swift Potion for 7 gold
+Ironclad buys potion Smoke Bomb for 31 gold
+Ironclad upgrades card Dropkick
+Ironclad sells potion Ancient Potion for 18 gold
+Relics ?
+Ironclad takes 28 damage
+Ironclad heals 36 hp
+Ironclad sells potion Dexterity Potion for 38 gold
+Ironclad upgrades card Impervious
+Ironclad fights Spheric Guardian
+Ironclad fights Gremlin Leader for 183 gold
+Ironclad removes card Juggernaut
+Relics ?
+Ironclad sells potion Skill Potion for 27 gold
+Ironclad takes 30 damage
+Health ?
+Ironclad gains card
+Ironclad gains 11 max hp
+Ironclad gains potion Explosive Potion
+Exhausts ?
+Deck ?
+Ironclad learns card Reaper is effective against Writhing Mass
+Where ?
+Ironclad fights Spheric Guardian for 143 gold
+Potions ?
+Ironclad fights Nob
+Deck size ?
+Total gold?
+Total upgraded card Defend ?
+Ironclad marks relic Shuriken as exhaust
+Ironclad upgrades card Headbutt
+Ironclad upgrades card Reaper
+Ironclad heals 2 hp
+Ironclad buys card Cleave for gold
+Ironclad heals 134 hp
+Ironclad marks card Metallicize as exhaust
+Ironclad sells upgraded card Second Wind for 34 gold
+Potions ?
+Ironclad buys card Defend for 27 gold
+Ironclad gains 118 gold
+Ironclad gains 219 gold
+Where ?
+Ironclad gains potion Block Potion
+Ironclad learns card Phantom Fists is effective against Bronze Automaton
+Ironclad heals 13 hp
+Ironclad enters Monster room
+Exit

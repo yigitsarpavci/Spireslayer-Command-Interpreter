@@ -1,0 +1,30 @@
+Total gold ?
+Ironclad removes card Perfected Strike
+Ironclad learns potion Dexterity Potion is effective against Orb Walker
+Ironclad fights Lagavulin
+Ironclad marks card Defend as exhaust
+Ironclad fights Fungibeast
+Ironclad gains relic Girya
+Ironclad heals 0 hp
+Health ?
+Where ?
+Potions ?
+Ironclad gains card Demon Form
+Ironclad gains 21 max hp
+Ironclad gains 138 gold
+Ironclad upgrades card Demon Form
+Ironclad discards potion Fire Potion
+Ironclad upgrades card Double Tap card
+Ironclad learns potion Weak Potion is effective against Byrd
+Potions ?
+Ironclad discards potion Fire Potion
+Floor ?
+Ironclad discards Potion Skill Potion
+Deck size ?
+Ironclad gains card
+Ironclad gains 404 gold
+Ironclad sells upgraded card Demon Form for 38 gold
+Ironclad gains card Corruption
+Defeated Orb Walker ?
+Ironclad removes card Pummel
+Exit

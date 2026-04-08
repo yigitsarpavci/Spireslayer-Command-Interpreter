@@ -1,0 +1,29 @@
+» None
+» Relic obtained: Frozen Egg
+» Potion not found: Fire Potion
+» Potion obtained: Weak Potion
+» None
+» None
+» Ironclad health drops to 53
+» Ironclad is outmatched and flees with 38 hp remaining
+» Card not found: Pommel Strike
+» Card added: Second Wind
+» Codex entry created: Byrd
+» Gold obtained
+» 184
+» Codex entry created: Snake Plant
+» Card upgraded: Second Wind
+» Frozen Egg
+» Card not found: Shrug It Off
+» INVALID
+» Ironclad is outmatched and flees with 23 hp remaining
+» Card not found: Body Slam
+» INVALID
+» potion Explosive Potion
+» Ironclad is outmatched and flees with 8 hp remaining
+» Ironclad is outmatched and flees with 0 hp remaining
+» INVALID
+» Already has relic: Frozen Egg
+» Card not found: Offering
+» Card added: Iron Wave
+» Frozen Egg

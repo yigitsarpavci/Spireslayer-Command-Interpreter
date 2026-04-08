@@ -1,0 +1,11 @@
+» NONE
+» 0
+» Entered Shop room
+» Shop
+» 1
+» Ironclad health drops to 65
+» 65/80
+» Max health increased to 90
+» 65/90
+» Ironclad heals to 85
+» 85/90
