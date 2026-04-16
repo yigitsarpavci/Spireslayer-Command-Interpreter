@@ -1,2 +1,4 @@
 my-outputs/
 spireslayer
+*.o
+spireslayer
